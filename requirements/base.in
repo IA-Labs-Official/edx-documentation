@@ -1,5 +1,0 @@
-# Core dependencies for documentation builds
--c constraints.txt
-
-edx-sphinx-theme                    # edX theme for the generated documentation
-sphinx                              # Documentation builder
